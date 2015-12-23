@@ -13,3 +13,12 @@
 -->
 <!-- para moverte y crear al mismo tiempo una rama es con el comando 
 1.- git checkout -b text -->
+
+<!-- git clone http/ssh sirve para clonar proyectos de github  y tenerlos en la pc -->
+<!-- 
+poner mi proyecto en github 
+un repositorio es como la traduccion de la palabra proyecto
+** repositorios remotos son los que estan en git 
+** repositorio local es el que esta en mi pc
+1.- Tengo que crear un repositorio en Github y le damos un nombre (no tiene que ser el mismo nombre, pero de preferencia si)
+-->
