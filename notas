@@ -22,3 +22,18 @@ un repositorio es como la traduccion de la palabra proyecto
 ** repositorio local es el que esta en mi pc
 1.- Tengo que crear un repositorio en Github y le damos un nombre (no tiene que ser el mismo nombre, pero de preferencia si)
 -->
+
+
+<!-- 
+1.- git remote vincula mi proyecto locl con el proyecto remoto 
+copiar el link https y en la terminal usar el comando 
+git remote add origin http/ssh
+-->
+
+<!-- si borro el repositorio remoto y creo uno nuevo tengo que cambiar la configuracioón el sig comando
+git remote remove origin -->
+
+<!-- sirve para ver los proyectos que estan vinculados 
+git remote -v
+
+-->
