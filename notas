@@ -11,4 +11,5 @@
 1.- nos movemos a la rama que recibira los cambios cualquiera que fuese
 2.- el siguiente paso es hacer la fusion con el comando git merge Nombre_Rama 
 -->
-
+<!-- para moverte y crear al mismo tiempo una rama es con el comando 
+1.- git checkout -b text -->
