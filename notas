@@ -39,5 +39,5 @@ git remote -v
 -->
 
 <!-- para pasar lo que tenemos en la computadora a github
-1.- se usa el comando git push
+1.- se usa el comando git push oirigin nombre_rama
 -->
