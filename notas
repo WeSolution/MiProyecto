@@ -41,3 +41,8 @@ git remote -v
 <!-- para pasar lo que tenemos en la computadora a github
 1.- se usa el comando git push oirigin nombre_rama
 -->
+
+<!-- para subir los cambios a github de un proyecto ya vinculado es co el commando 
+
+
+-->
