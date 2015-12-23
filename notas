@@ -43,6 +43,5 @@ git remote -v
 -->
 
 <!-- para subir los cambios a github de un proyecto ya vinculado es co el commando 
-
-
+git push origin  mnombre_rama
 -->
