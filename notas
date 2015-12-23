@@ -47,5 +47,5 @@ git push origin  mnombre_rama
 -->
 
 <!-- para agregar ramas a github es con el comando 
-git push origin nombre_rama
+git push origin nombre_rama_nueva_ (es en la que estas lcoalizadogut)
 -->
