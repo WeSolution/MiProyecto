@@ -1,0 +1,14 @@
+<!-- git checkout mas el log para viajar en el tiempo -->
+<!-- git  checkout master para regresarme todos los logs -->
+<!-- git  reset --soft borrar los commits  de la llave especificada-->
+<!-- git  reset mixed xx -->
+<!-- git  reset --hard borra todo -->
+<!-- git  branch me muestra todas las rmas y la que tiene un asterisco es en la que estoy localizado-->
+<!-- git  branch nombre_rama agrega ramas nuevas-->
+<!-- git  checkout noombre_rama para moverte de rama -->
+<!-- git  branch -D nombre_rama borra ramas  -->
+<!-- git      pasar los cambios de uan rama con otra para generar los camvios de una rama a otra creando un nuevo commit
+1.- nos movemos a la rama que recibira los cambios cualquiera que fuese
+2.- el siguiente paso es hacer la fusion con el comando git merge Nombre_Rama 
+-->
+
