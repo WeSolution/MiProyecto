@@ -11,12 +11,14 @@
 1.- nos movemos a la rama que recibira los cambios cualquiera que fuese
 2.- el siguiente paso es hacer la fusion con el comando git merge Nombre_Rama 
 -->
-<!-- para ver las ramas ocultas es con git brancg -a -->
+<!-- para ver las ramas ocultas es con git branch -a -->
+<!-- con git fetch origin subimos los cambios a la rama oculta origin/master -->
+<!-- con git merge origin/merge  me sirve para funcionar los cambios de alguien mas para generar un nuevo commit--> 
 <!-- para moverte y crear al mismo tiempo una rama es con el comando 
 1.- git checkout -b text -->
 
 <!-- git clone http/ssh sirve para clonar proyectos de github  y tenerlos en la pc -->
-<!-- 
+<!--  
 poner mi proyecto en github 
 un repositorio es como la traduccion de la palabra proyecto
 ** repositorios remotos son los que estan en git 
